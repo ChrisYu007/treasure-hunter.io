@@ -1,0 +1,12 @@
+{
+  "background_color": "#6f8ef1",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "chrisyu007.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "chrisyu007.github",
+  "start_url": "/",
+  "theme_color": "#ee9c9c",
+  "description": "this is a game about treasure."
+}
